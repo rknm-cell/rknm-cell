@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm Peter Yelton, a Software Engineer Fullstack Developer with a background in Art and Animation, experienced in Python with Flask and JavaScript based programming. Possessing strong skills in visual art and team management that help bridge the gap between design and development to an engaging product
+<div id="badges">
+  <a href="https://www.linkedin.com/in/peteryelton/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  
+</div>
 <!--
 **rknm-cell/rknm-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
