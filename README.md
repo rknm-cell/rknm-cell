@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi!
 I'm Peter Yelton, a Software Engineer Fullstack Developer with a background in Art and Animation, experienced in Python with Flask and JavaScript based programming. Possessing strong skills in visual art and team management that help bridge the gap between design and development to an engaging product
 <div id="badges">
   <a href="https://www.linkedin.com/in/peteryelton/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   
 </div>
+- 🔭 I’m currently working on ...
+I'm currently working on an app for scenic art in the fabrication industry in React, referring to a paint API to log paint and finishes used on particular projects to keep track of the progress of a current project and to keep an archival log of paints and techniques used in the creation of specific projects for later reference, in the case of revisiting the project or applying the work used on other future projects.
+
+- 🌱 I’m currently learning ...
+I'm learning how to use Figma, to create layouts and help me with designing layouts for UX/UI
+
 <!--
 **rknm-cell/rknm-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
