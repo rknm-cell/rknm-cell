@@ -7,7 +7,7 @@ I'm Peter Yelton, a Software Engineer Fullstack Developer with a background in A
 <div></div>
 🔭 I’m currently working on an app for scenic art in the fabrication industry in React, referring to a paint API to log paint and finishes used on particular projects to keep track of the progress of a current project and to keep an archival log of paints and techniques used in the creation of specific projects for later reference, in the case of revisiting the project or applying the work used on other future projects.
 <div></div>
-🌱 I’m currently learning Figma, to create layouts and help me with designing layouts for UX/UI
+
 
 <!--
 **rknm-cell/rknm-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
