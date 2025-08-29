@@ -1,5 +1,6 @@
 
 
+Design Engineer bridging design and technology to build intuitive AI-powered applications. Full-stack expertise in developing scalable solutions that turn complex AI capabilities into user-friendly experiences.
 
 
 <!--
