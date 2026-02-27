@@ -1,8 +1,5 @@
 
-
-Design Engineer bridging design and technology to build intuitive AI-powered applications. Full-stack expertise in developing scalable solutions that turn complex AI capabilities into user-friendly experiences.
-
-
+Full-stack engineer. TypeScript / React / Next.js / AI. Building production systems: AI-powered apps, 3D browser experiences, and federal grant infrastructure. Always shipping.
 <!--
 **rknm-cell/rknm-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
